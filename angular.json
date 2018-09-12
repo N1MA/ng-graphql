@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "demo/dist/ng-graphql-demo",
+            "outputPath": "docs",
             "index": "demo/src/index.html",
             "main": "demo/src/main.ts",
             "polyfills": "demo/src/polyfills.ts",
